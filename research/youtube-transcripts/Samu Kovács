@@ -79,8 +79,4 @@ Because the B2B buying journey is non-linear (e.g., a prospect watches a video, 
 * **Self-Reported Attribution:** Add a required "How did you hear about us?" field (with multiple choice options) on your demo booking or signup forms. Alternatively, ask prospects directly during sales calls.
 """
 
-file_path = "/mnt/data/B2B_SaaS_YouTube_Content_Marketing_Framework.md"
-with open(file_path, "w") as f:
-    f.write(markdown_content)
-    
-print(f"File created successfully at: {file_path}")
+
