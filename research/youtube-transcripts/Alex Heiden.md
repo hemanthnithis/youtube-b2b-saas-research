@@ -12,9 +12,9 @@
 
 <br />
 
-## Video Title: [Video Title Here]
+## Video Title: I cracked content marketing for SaaS
 
-🔗 **Link:** [Video Title Here](https://www.youtube.com/watch?v=VIDEO_ID)
+🔗 **Link:** (https://youtu.be/Ceu18_QPXT0?si=nxdFbs9adNab9mNw)
 
 ## 📖 Executive Overview
 Most SaaS companies fail at organic content because they treat videos like advertisements rather than psychological funnels[cite: 2]. This framework operates on one core axiom: **Content is propaganda**[cite: 2]. To convert a viewer, you must systematically install **two to three core beliefs** within their mind until purchasing your software becomes the only logical conclusion[cite: 2].
