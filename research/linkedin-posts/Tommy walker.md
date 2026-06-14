@@ -85,3 +85,6 @@ This is the kind of analysis that helps you identify the very small, very specif
 <div align="center">
   <i>Audit the narrative. Audit the persuasion. Find the gap nobody else is filling.</i>
 </div>
+
+<img width="1080" height="1350" alt="1774017189514" src="https://github.com/user-attachments/assets/bba02d60-6925-4905-8e35-3fabdaaf884d" />
+
