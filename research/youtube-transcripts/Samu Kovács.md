@@ -12,6 +12,9 @@
 
 <br />
 
+## Video Title: Best Youtube Marketing Strategy for SaaS in 2025
+🔗 **Link:** https://youtu.be/AlrW6i0KJaM?si=uim0utkk_rcugt80
+
 ## 📖 Executive Overview
 YouTube is widely considered the most underutilized channel for B2B SaaS companies. Instead of treating it as a generic storage space for demos and webinars, SaaS companies can leverage YouTube as a strategic growth engine. This framework outlines the step-by-step process to build a YouTube presence that generates a consistent, evergreen flow of highly qualified inbound leads, shortens sales cycles, and establishes undeniable brand authority. 
 
