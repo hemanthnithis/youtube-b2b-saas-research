@@ -10,7 +10,7 @@ The list combines two groups: YouTube creators who run channels that practice Yo
 |---|------|----------|------|------------|------------|
 | 1 | Samu Kovács | YouTube | _[https://www.youtube.com/@SamuKovacs]_ | 14 Jun 2026 | B2B YouTube SEO specialist; runs YouTube growth for SaaS founders, ranking videos for high-intent search terms. |
 | 2 | Alex Heiden | YouTube | _[https://www.youtube.com/@alex.heiden]_ | 14 Jun 2026 | Founder of Payd; uses founder-led organic video content to drive 10M+ monthly impressions for his own SaaS. |
-| 3 | Rob Walling | YouTube | _[paste link]_ | 14 Jun 2026 | Serial SaaS founder (sold Drip); runs MicroConf/TinySeed; channel translates "SaaS Playbook" frameworks into video. |
+| 3 | Rob Walling | YouTube | _[https://www.youtube.com/@RobWalling]_ | 14 Jun 2026 | Serial SaaS founder (sold Drip); runs MicroConf/TinySeed; channel translates "SaaS Playbook" frameworks into video. |
 | 4 | TK Kader (TKKader) | YouTube | _[paste link]_ | 14 Jun 2026 | Ex-ToutApp exec (acquired by Marketo/Adobe); weekly videos on SaaS GTM strategy for founders and CEOs. |
 | 5 | Joanna Wiebe | YouTube | _[paste link]_ | 14 Jun 2026 | Co-founder of Copyhackers; original conversion copywriter; teaches messaging/copy for SaaS landing pages and videos. |
 | 6 | Exposure Ninja | YouTube | _[paste link]_ | 14 Jun 2026 | Award-winning marketing agency; high-frequency channel on SEO, AI search, and content production at scale. |
