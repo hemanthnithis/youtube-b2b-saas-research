@@ -1,4 +1,12 @@
-## Youtube Channel: https://www.youtube.com/@SamuKovacs
+<div align="center">
+
+# ALEX HEIDEN
+
+## Youtube Channel: https://www.youtube.com/@alex.heiden
+
+</div>
+
+<br />
 
 <div align="center">
 
