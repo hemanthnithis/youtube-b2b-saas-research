@@ -13,6 +13,9 @@
 
 <br />
 
+## Video Title: If I Started in 2026, Here’s My B2B SaaS Content Strategy for $1M ARR
+🔗 **Link:** https://youtu.be/YxAd96vLzCc?si=6GuFm5cFKwSwEAUF
+
 ## 📖 Executive Overview
 
 For every SaaS business worth building, content marketing is not optional — it is a core pillar of your go-to-market strategy. Whether you are trying to reach $1M ARR, $10M ARR, or $100M ARR, founder-led content marketing is one of the highest-leverage growth levers available to you.
