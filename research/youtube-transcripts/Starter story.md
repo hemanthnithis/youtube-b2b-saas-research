@@ -13,6 +13,9 @@
 
 <br />
 
+## Video Title: I Built a $1M SaaS Using YouTube
+🔗 **Link:** https://youtu.be/VZ1XspToV1E?si=UjWIZGB_YHvus88n
+
 ## 📖 Executive Overview
 
 Vasco built Arvo — an AI-powered SEO SaaS — from zero to $70,000 MRR in under two years. No influencer partnerships, no viral product launches, no paid acquisition at the start. Just YouTube.
