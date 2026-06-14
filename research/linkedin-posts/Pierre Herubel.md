@@ -22,6 +22,8 @@
 
 <div align="center">
 
+# POST 1 - SUMMARY
+
 # 🚨 Panic-Led Marketing: The 4 Layers of Marketing Problems
 
 *A framework for founders and marketers treating symptoms instead of root problems.*
@@ -132,6 +134,8 @@ E → Expensive
 
 <div align="center">
 
+# POST 2 - SUMMARY
+
 # 🎯 Content Positioning Strategy: The Framework for B2B Brands
 
 *A framework used with 600+ B2B brands to position content like a product.*
@@ -236,6 +240,8 @@ Pillar 1 + Pillar 2 + Pillar 3 = Your Zone
 
 
 <div align="center">
+
+# POST 3 - SUMMARY
 
 # 🔍 The 3 Most Critical B2B Content Problems in 2026
 
