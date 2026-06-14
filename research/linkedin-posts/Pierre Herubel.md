@@ -1,3 +1,16 @@
+🔗 **Author Profile:** https://www.linkedin.com/in/pierre-herubel-540b3949/
+
+
+🔗 **Post 1 Link:** https://www.linkedin.com/posts/pierre-herubel-540b3949_panic-led-marketing-looks-like-this-try-activity-7470386406885023744-9rC5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
+
+
+🔗 **Post 2 Link:** https://www.linkedin.com/posts/pierre-herubel-540b3949_ive-helped-600-b2b-brands-build-their-content-activity-7468572369809272832-M0Qm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
+
+
+🔗 **Post 3 Link:** https://www.linkedin.com/posts/pierre-herubel-540b3949_ive-audited-over-100-b2b-content-strategies-activity-7465673267165515776-RcsC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
+
+
+
 <div align="center">
 
 # 🚨 Panic-Led Marketing: The 4 Layers of Marketing Problems
