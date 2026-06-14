@@ -1,5 +1,15 @@
 <div align="center">
 
+# ROB WALLING
+
+## Youtube Channel: https://www.youtube.com/@RobWalling
+</div>
+
+<br />
+
+
+<div align="center">
+
 # 🎯 The 5 Stages of Customer Awareness: A B2B Content Marketing Framework
 
 *A definitive, strategic blueprint for prioritizing content across every stage of the buyer journey — built for B2B SaaS founders who want inbound leads, shorter sales cycles, and a framework that actually converts.*
