@@ -9,6 +9,14 @@
 
 <div align="center">
 
+# Transcript summary
+
+</div>
+
+<br />
+
+<div align="center">
+
 # 🚀 B2B SaaS YouTube Content Marketing Framework
 
 *A definitive, strategic blueprint for transforming YouTube into a predictable revenue engine for B2B SaaS companies.*
