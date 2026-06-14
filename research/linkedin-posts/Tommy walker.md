@@ -9,11 +9,12 @@
 <br />
 
 
-
 🔗 **Post Link:**https://www.linkedin.com/posts/tommyismyname_bet-you-didnt-think-storytelling-could-activity-7440767401522159616-iUgo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
 
 
 <div align="center">
+
+# POST - SUMMARY
 
 # 📐 The Market Positioning Map: Storytelling as a Math Equation
 
