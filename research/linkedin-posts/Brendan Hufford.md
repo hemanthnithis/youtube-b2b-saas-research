@@ -1,6 +1,14 @@
 
+<div align="center">
 
-🔗 **Author Profile:** https://www.linkedin.com/in/brendanhufford/
+# Brendan Hufford
+
+## Author Profile: https://www.linkedin.com/in/brendanhufford/
+
+</div>
+
+<br />
+
 
 
 🔗 **Post 1 Link:** https://www.linkedin.com/posts/brendanhufford_in-2026-with-ai-marketers-are-more-productive-activity-7437868831987003392-wGvj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
