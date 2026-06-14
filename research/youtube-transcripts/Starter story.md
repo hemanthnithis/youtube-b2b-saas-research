@@ -9,6 +9,14 @@
 
 <div align="center">
 
+# Transcript summary
+
+</div>
+
+<br />
+
+<div align="center">
+
 # 🚀 The YouTube-First SaaS Growth Playbook: $0 to $70K MRR with Zero Paid Marketing
 
 *A definitive, battle-tested blueprint for SaaS founders who want to use YouTube as their primary growth engine — building trust, generating organic leads, and turning videos into money-making assets that sell while you sleep.*
