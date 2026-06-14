@@ -1,5 +1,15 @@
 <div align="center">
 
+# JOANNA WIEBE
+
+## Youtube Channel: https://www.youtube.com/@joanna-wiebe
+</div>
+
+<br />
+
+
+<div align="center">
+
 # 📈 The 7 Content Strategies Dominating in 2026
 
 *A definitive, no-fluff blueprint for creators and brands who want to build real authority, grow real audiences, and drive real business results — not just likes.*
