@@ -8,14 +8,14 @@ The list combines two groups: YouTube creators who run channels that practice Yo
 
 | # | Name | Platform | Link | Date Added | Annotation |
 |---|------|----------|------|------------|------------|
-| 1 | Samu Kovács | YouTube | _[https://www.youtube.com/@SamuKovacs]_ | 14 Jun 2026 | B2B YouTube SEO specialist; runs YouTube growth for SaaS founders, ranking videos for high-intent search terms. |
-| 2 | Alex Heiden | YouTube | _[https://www.youtube.com/@alex.heiden]_ | 14 Jun 2026 | Founder of Payd; uses founder-led organic video content to drive 10M+ monthly impressions for his own SaaS. |
-| 3 | Rob Walling | YouTube | _[https://www.youtube.com/@RobWalling]_ | 14 Jun 2026 | Serial SaaS founder (sold Drip); runs MicroConf/TinySeed; channel translates "SaaS Playbook" frameworks into video. |
-| 4 | TK Kader (TKKader) | YouTube | _[https://www.youtube.com/@TKKader]_ | 14 Jun 2026 | Ex-ToutApp exec (acquired by Marketo/Adobe); weekly videos on SaaS GTM strategy for founders and CEOs. |
-| 5 | Joanna Wiebe | YouTube | _[https://www.youtube.com/@joanna-wiebe]_ | 14 Jun 2026 | Co-founder of Copyhackers; original conversion copywriter; teaches messaging/copy for SaaS landing pages and videos. |
-| 6 | Exposure Ninja | YouTube | _[https://www.youtube.com/@ExposureNinja]_ | 14 Jun 2026 | Award-winning marketing agency; high-frequency channel on SEO, AI search, and content production at scale. |
-| 7 | Starter Story (Pat Walls) | YouTube | _[https://www.youtube.com/@starterstory]_ | 14 Jun 2026 | Built 800K+ subscriber channel (acquired by HubSpot) using a documented "prep doc → treatment → big idea" system. |
-| 8 | Brendan Hufford | LinkedIn | _[https://www.linkedin.com/in/brendanhufford/]_ | 14 Jun 2026 | B2B SaaS SEO/content consultant; daily posts on content tactics vs. strategy and AI search visibility (AEO). |
+| 1 | Samu Kovács | YouTube | _[https://www.youtube.com/@SamuKovacs]_ | 13 Jun 2026 | B2B YouTube SEO specialist; runs YouTube growth for SaaS founders, ranking videos for high-intent search terms. |
+| 2 | Alex Heiden | YouTube | _[https://www.youtube.com/@alex.heiden]_ | 13 Jun 2026 | Founder of Payd; uses founder-led organic video content to drive 10M+ monthly impressions for his own SaaS. |
+| 3 | Rob Walling | YouTube | _[https://www.youtube.com/@RobWalling]_ | 13 Jun 2026 | Serial SaaS founder (sold Drip); runs MicroConf/TinySeed; channel translates "SaaS Playbook" frameworks into video. |
+| 4 | TK Kader (TKKader) | YouTube | _[https://www.youtube.com/@TKKader]_ | 13 Jun 2026 | Ex-ToutApp exec (acquired by Marketo/Adobe); weekly videos on SaaS GTM strategy for founders and CEOs. |
+| 5 | Joanna Wiebe | YouTube | _[https://www.youtube.com/@joanna-wiebe]_ | 13 Jun 2026 | Co-founder of Copyhackers; original conversion copywriter; teaches messaging/copy for SaaS landing pages and videos. |
+| 6 | Exposure Ninja | YouTube | _[https://www.youtube.com/@ExposureNinja]_ | 13 Jun 2026 | Award-winning marketing agency; high-frequency channel on SEO, AI search, and content production at scale. |
+| 7 | Starter Story (Pat Walls) | YouTube | _[https://www.youtube.com/@starterstory]_ | 13 Jun 2026 | Built 800K+ subscriber channel (acquired by HubSpot) using a documented "prep doc → treatment → big idea" system. |
+| 8 | Brendan Hufford | LinkedIn | _[https://www.linkedin.com/in/brendanhufford/]_ | 13 Jun 2026 | B2B SaaS SEO/content consultant; daily posts on content tactics vs. strategy and AI search visibility (AEO). |
 | 9 | Pierre Herubel | LinkedIn | _[https://www.linkedin.com/in/pierre-herubel-540b3949/]_ | 14 Jun 2026 | B2B content strategist (58K+ followers); frameworks for prioritizing content investments for SaaS Series A–C. |
 | 10 | Tommy Walker | LinkedIn | _[https://www.linkedin.com/in/tommyismyname/]_ | 14 Jun 2026 | Founder of The Content Studio; ex-Shopify Plus/QuickBooks; persona-driven editorial frameworks for content. |
 | 11 | Devin Reed | LinkedIn | _[https://www.linkedin.com/in/devinreed/]_ | 14 Jun 2026 | Head of Content at Clari (ex-Gong); "Build Trust at Scale" framework for turning content into pipeline. |
