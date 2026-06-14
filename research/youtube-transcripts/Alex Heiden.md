@@ -1,3 +1,5 @@
+## Youtube Channel: https://www.youtube.com/@SamuKovacs
+
 <div align="center">
 
 # 📣 Organic Ads & Virality Framework for B2B SaaS
