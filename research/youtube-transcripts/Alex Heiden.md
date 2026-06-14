@@ -10,6 +10,14 @@
 
 <div align="center">
 
+# Transcript summary
+
+</div>
+
+<br />
+
+<div align="center">
+
 # 📣 Organic Ads & Virality Framework for B2B SaaS
 
 *The in-house training system used to generate millions of views and add thousands of customers by engineering viral, belief-shifting content.*
