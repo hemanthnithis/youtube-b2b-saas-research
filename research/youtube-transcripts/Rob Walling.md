@@ -13,6 +13,9 @@
 
 <br />
 
+## Video Title: If I Started SaaS in 2026, Here’s My B2B Content Strategy for $1M ARR
+🔗 **Link:** https://youtu.be/Sxn1ji7vYzU?si=JNdZGuVsK_q0MNUd
+
 ## 📖 Executive Overview
 
 Most founders approach content marketing without a framework — and waste thousands of dollars producing content that never converts. This framework solves that problem by applying **Eugene Schwartz's Five Stages of Customer Awareness** (a concept from the 1960s) to modern B2B SaaS content marketing and SEO strategy.
