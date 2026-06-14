@@ -13,6 +13,9 @@
 
 <br />
 
+## Video Title: The Top 7 Content Strategies To Get Ahead of Everyone Else
+🔗 **Link:** https://youtu.be/HGZnMJFLuqE?si=PbqaalgHbKgu5WBV
+
 ## 📖 Executive Overview
 
 The old way of creating content is dead. Most people are still running strategies that stopped working years ago — and wondering why their numbers aren't moving. This framework exposes the seven strategies that are actually dominating the content landscape right now, and more importantly, how to implement each one.
