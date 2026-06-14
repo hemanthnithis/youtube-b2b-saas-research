@@ -4,6 +4,12 @@
 
 *A framework for marketing teams producing more than ever — and seeing less in return.*
 
+🔗 **Author Profile:** (linkedin.com/in/brendanhufford)
+🔗 **Post 1 Link:** https://www.linkedin.com/posts/brendanhufford_in-2026-with-ai-marketers-are-more-productive-activity-7437868831987003392-wGvj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
+🔗 **Post 2 Link:** https://www.linkedin.com/posts/brendanhufford_b2cs-standards-for-going-viral-are-ruining-activity-7426628334404468738-YTdq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
+🔗 **Post 3 Link:** https://www.linkedin.com/posts/brendanhufford_content-marketing-in-2026-has-4-ingredients-activity-7419370670880374784-RhxV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
+
+
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](#)
 [![Category: Marketing Strategy](https://img.shields.io/badge/Category-Marketing_Strategy-blue.svg)](#)
 [![Audience: Marketing Leaders & Founders](https://img.shields.io/badge/Audience-Marketing_Leaders_%26_Founders-purple.svg)](#)
