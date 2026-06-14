@@ -1,4 +1,14 @@
-🔗 **Author Profile:** https://www.linkedin.com/in/devinreed/
+<div align="center">
+
+# Devin Reed
+
+## Author Profile: https://www.linkedin.com/in/devinreed/
+
+</div>
+
+<br />
+
+
 
 
 🔗 **Post Link:** https://www.linkedin.com/posts/devinreed_3-signs-your-content-strategy-is-broken-activity-7465449920213213187-uDXz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
