@@ -1,4 +1,13 @@
-🔗 **Author Profile:** https://www.linkedin.com/in/pierre-herubel-540b3949/
+<div align="center">
+
+# Pierre Herubel
+
+## Author Profile: https://www.linkedin.com/in/pierre-herubel-540b3949/
+
+</div>
+
+<br />
+
 
 
 🔗 **Post 1 Link:** https://www.linkedin.com/posts/pierre-herubel-540b3949_panic-led-marketing-looks-like-this-try-activity-7470386406885023744-9rC5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXI9AsBwNb-_OsLNPUaCANhKnMxL6EKpAI
