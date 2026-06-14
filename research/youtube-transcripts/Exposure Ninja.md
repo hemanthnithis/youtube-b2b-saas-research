@@ -13,6 +13,10 @@
 
 <br />
 
+## Video Title: How To Get Qualified B2B Leads Using Content Marketing
+
+🔗 **Link:** (https://youtu.be/xbJroTuyP5c?si=th1uuyZJCtwXJtps)
+
 ## 📖 Executive Overview
 
 Most B2B content marketing advice online is generic, cookie-cutter, and built for B2C audiences. B2B is fundamentally different — your buyers are sophisticated, your sales cycles are long, and the goal is never volume of leads. It is always **quality of leads**.
