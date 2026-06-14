@@ -24,13 +24,6 @@ The list combines two groups: YouTube creators who run channels that practice Yo
 
 # YouTube Creators
 
-Each entry follows the same template:
-
-- **Channel Link:** _(paste YouTube channel URL here)_
-- **Who they are:**
-- **What they do / focus area:**
-- **Why I selected them:**
-- **Relevance to this research:**
 
 ---
 
@@ -105,14 +98,6 @@ Each entry follows the same template:
 ---
 
 # LinkedIn Authors
-
-Each entry follows the same template:
-
-- **Profile Link:** _(paste LinkedIn profile URL here)_
-- **Who they are:**
-- **What they do / focus area:**
-- **Why I selected them:**
-- **Relevance to this research:**
 
 ---
 
