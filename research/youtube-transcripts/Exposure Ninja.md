@@ -1,5 +1,17 @@
 <div align="center">
 
+# EXPOSURE NINJA
+
+## Youtube Channel: https://www.youtube.com/@ExposureNinja
+
+</div>
+
+<br />
+
+<div align="center">
+
+<div align="center">
+
 # 🎯 The B2B YouTube Content Marketing Framework
 
 *A definitive, no-fluff blueprint for B2B companies to use YouTube as a strategic content engine — generating high-quality leads, building authority, and guiding buyers from awareness to purchase.*
