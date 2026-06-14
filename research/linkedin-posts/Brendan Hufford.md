@@ -22,7 +22,7 @@
 
 <div align="center">
 
-# POST 1
+# POST 1 - SUMMARY
 
 # 🧠 The 3 Phases of Marketing: Why Most Teams Get Trapped and Never Realize It
 
@@ -108,7 +108,7 @@ It's just that **effort became the metric instead of impact.**
 
 <div align="center">
 
-# POST 2
+# POST 2 - SUMMARY
 
 # ⚡ B2B Viral Is a Different Game — and a Different Scoreboard
 
@@ -209,7 +209,7 @@ When you have a 90–180 day sales cycle, you can't afford to go "B2C viral" onc
 
 <div align="center">
 
-# POST 3
+# POST 3 - SUMMARY
 
 # ⚡ Content Marketing in 2026 Has 4 Ingredients — Almost Nobody Has Them Working Together
 
