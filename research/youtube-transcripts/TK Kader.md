@@ -1,5 +1,14 @@
 <div align="center">
 
+# TK KADER
+
+## Youtube Channel: https://www.youtube.com/@TKKader
+</div>
+
+<br />
+
+<div align="center">
+
 # 🚀 Founder-Led Content Marketing: The 3-Point B2B Content Strategy Framework
 
 *A definitive, battle-tested blueprint for SaaS founders to drive real pipeline, customers, and relationships — not just likes — through authentic content marketing.*
